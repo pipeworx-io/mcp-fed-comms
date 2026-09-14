@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/fed-comms",
+  "title": "Fed Comms",
+  "description": "Federal Reserve communications from federalreserve.gov: the FOMC meeting calendar, each policy…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/fed-comms",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-fed-comms",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/fed-comms/mcp"
+    }
+  ]
+}
