@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fed-comms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Federal Reserve communications from federalreserve.gov: the FOMC meeting calendar, each policy statement with the rate decision, vote and a sentence-level redline against the prior statement, meeting minutes by section, Board speeches and testimony, and the Beige Book by district.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-7426c7466367789ebc0db395ec5f5e4ff129504a237b6589e6685c54ee7c5b87",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/fed-comms",
   "title": "Fed Comms",
   "description": "Federal Reserve communications from federalreserve.gov: the FOMC meeting calendar, each policy…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/fed-comms",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-fed-comms",
